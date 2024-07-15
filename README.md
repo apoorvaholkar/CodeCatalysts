@@ -5,11 +5,11 @@
 
 # Tech Stack
 -Frontend
-  -React JS
-  -Tailwind CSS
-  -HTML
-  -CSS
+  React JS
+  Tailwind CSS
+  HTML
+  CSS
 -Backend
-  -Flask
-  -ML Algorithm: ResNet
+  Flask
+  ML Algorithm: ResNet
 # CodeCatalysts
