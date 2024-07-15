@@ -1,71 +1,15 @@
-# Getting Started with Create React App
+# Myntra HackerRamp Hackathon'24
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+ - Our website features a "Trending" section that highlights products gaining significant user interest. When multiple users search for the same product and the search volume surpasses a predefined threshold, the product is marked as trending. This section is updated in real-time, ensuring users have access to the most current and popular items. By prominently displaying these trending products, we enhance user engagement and satisfaction, making it easier for users to discover what’s popular. For businesses, this feature increases product visibility and provides valuable insights into consumer behavior, helping them adjust their strategies to meet market demands.
+ - Our website features a "Smart Search" functionality that allows users to search for products using images. By simply uploading a picture, users can find exact matches or similar items available on our platform. This innovative feature leverages advanced image recognition technology to analyze the uploaded image and compare it against our extensive product database. It provides an intuitive and efficient way to discover products, especially for those who may not know the exact name or details of what they are looking for. The "Smart Search" enhances the user experience by simplifying the search process, making it easier and faster to find desired products with just a photo.
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm test`
-
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+# Tech Stack
+  # Frontend
+  -React JS
+  -Tailwind CSS
+  -HTML
+  -CSS
+  # Backend
+  -Flask
+  -ML Algorithm: ResNet
 # CodeCatalysts
